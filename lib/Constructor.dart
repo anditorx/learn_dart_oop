@@ -13,5 +13,4 @@ void main() {
   var person = Person("Tito", "Jakarta");
   print(person.name); // Output: Tito
   print(person.address); // Output: Jakarta
-
 }
